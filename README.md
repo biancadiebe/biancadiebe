@@ -1,4 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancadiebe&show_icons=true&theme=dracula&hide_border=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancadiebe&layout=compact&theme=dracula&hide_border=true&card_width=400)
+![GitHub Stats](https://ghstats.dev/api/card?username=biancadiebe&theme=dracula)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bianca-diebe-47257334b/)
